@@ -1,1 +1,1 @@
-testeparaogitignore = 1
+'testeparaogitignore'
